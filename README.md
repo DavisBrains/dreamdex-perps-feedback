@@ -13,3 +13,7 @@ Participant repo for the DoraHacks dreamDEX Perps Bounty (Feedback track). Testi
 | 07 | [Order form accepts a size 14× above "Max order size" with no size error; submit stays enabled](feedback/07-order-form-accepts-size-above-max.md) | normal |
 | 08 | [Close position dialog shows "PnL if closed now +0.01" and "PnL at market value −0.09" at the same time, with no explanation](feedback/08-close-dialog-two-contradictory-pnl-values.md) | normal |
 | 09 | [Mobile (400 px): Portfolio header description is squeezed into a narrow column and wraps one word per line](feedback/09-mobile-portfolio-description-wraps-word-by-word.md) | normal |
+
+## Tools
+
+- [tools/](tools/README.md): read-only dreamDEX perps reader built on the official Markets SDK (`@somnia-chain/markets-sdk`), Somnia Tokyo testnet. No keys, no transactions.

@@ -1,0 +1,136 @@
+{
+  "network": "Somnia Tokyo testnet (Hideki)",
+  "chainId": 50383,
+  "market": "BTC-PERP",
+  "pool": "0x4181dd08e73bbcdd1ba3e615a18f6abd941b94c0",
+  "blockNumber": "37428069",
+  "queriedAt": "2026-10-30T21:34:12.702Z",
+  "markPrice": 76731.70478057594,
+  "indexPrice": 76743.71586031672,
+  "lastPrice": 76920.1,
+  "fundingRate": 0.00141636078000117,
+  "bids": [
+    {
+      "price": 76898.7,
+      "quantity": 0.0391,
+      "distanceFromMarkPct": 0.21763522640557176
+    },
+    {
+      "price": 76897.4,
+      "quantity": 0.01303,
+      "distanceFromMarkPct": 0.21594101147352973
+    },
+    {
+      "price": 76897.2,
+      "quantity": 0.03258,
+      "distanceFromMarkPct": 0.21568036302245072
+    },
+    {
+      "price": 76897.1,
+      "quantity": 0.19901,
+      "distanceFromMarkPct": 0.2155500387969207
+    },
+    {
+      "price": 76897,
+      "quantity": 0.02606,
+      "distanceFromMarkPct": 0.2154197145713717
+    },
+    {
+      "price": 76896.6,
+      "quantity": 0.05865,
+      "distanceFromMarkPct": 0.21489841766921372
+    },
+    {
+      "price": 76895.4,
+      "quantity": 0.09124,
+      "distanceFromMarkPct": 0.21333452696270175
+    },
+    {
+      "price": 76894.1,
+      "quantity": 0.15641,
+      "distanceFromMarkPct": 0.21164031203067868
+    },
+    {
+      "price": 76893.1,
+      "quantity": 0.2998,
+      "distanceFromMarkPct": 0.21033706977526467
+    },
+    {
+      "price": 76890.8,
+      "quantity": 0.58657,
+      "distanceFromMarkPct": 0.20733961258780864
+    },
+    {
+      "price": 76819.1,
+      "quantity": 0.2779,
+      "distanceFromMarkPct": 0.11389714287462768
+    },
+    {
+      "price": 76750.9,
+      "quantity": 0.2861,
+      "distanceFromMarkPct": 0.025016021055376807
+    }
+  ],
+  "asks": [
+    {
+      "price": 76920.1,
+      "quantity": 0.00043,
+      "distanceFromMarkPct": 0.24552461067144302
+    },
+    {
+      "price": 76920.4,
+      "quantity": 0.02606,
+      "distanceFromMarkPct": 0.24591558334805205
+    },
+    {
+      "price": 77010.9,
+      "quantity": 0.1,
+      "distanceFromMarkPct": 0.36385900746302025
+    },
+    {
+      "price": 77066.6,
+      "quantity": 0.2,
+      "distanceFromMarkPct": 0.4364496010895959
+    },
+    {
+      "price": 77107.1,
+      "quantity": 0.23384,
+      "distanceFromMarkPct": 0.4892309124338635
+    },
+    {
+      "price": 77122.4,
+      "quantity": 0.25,
+      "distanceFromMarkPct": 0.5091705189416827
+    },
+    {
+      "price": 79200,
+      "quantity": 0.74146,
+      "distanceFromMarkPct": 3.2167866287898437
+    },
+    {
+      "price": 79999,
+      "quantity": 0.42064,
+      "distanceFromMarkPct": 4.258077190865641
+    },
+    {
+      "price": 80000,
+      "quantity": 0.4141,
+      "distanceFromMarkPct": 4.259380433121055
+    },
+    {
+      "price": 80900,
+      "quantity": 0.5475,
+      "distanceFromMarkPct": 5.432298462993666
+    },
+    {
+      "price": 81000,
+      "quantity": 0.68899,
+      "distanceFromMarkPct": 5.562622688535067
+    },
+    {
+      "price": 82500,
+      "quantity": 2.41845,
+      "distanceFromMarkPct": 7.517486071656087
+    }
+  ]
+}

@@ -1,0 +1,1 @@
+{"name":"dreamdex-markets-readonly","private":true,"type":"module","scripts":{"start":"node markets.mjs"},"dependencies":{"@somnia-chain/markets-sdk":"0.32.1","viem":"^2.57.13"}}
